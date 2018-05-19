@@ -1,5 +1,8 @@
 # Bamazon
 
+In this project, I created an Amazon-like storefront using SequelPro, Node.js, & Inquirer. The app takes in orders from customers and depletes stock from the store's inventory. when you sign in, the prompt will ask you to enter the item you would like to buy, and how many units. if the item is in stock, it will display to amount of money you need to "pay". if you select the any number 0 or less itll tell you to enter a vaild number. see some image examples below. 
+
+
 ![loading table](https://user-images.githubusercontent.com/33919280/40264728-7633f33c-5af0-11e8-8dd5-490dbfdf7079.png)
 
 # here it is prompting the user to enter an item ID, and how many they would like to buy.
