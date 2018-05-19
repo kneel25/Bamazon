@@ -15,3 +15,5 @@ In this project, I created an Amazon-like storefront using SequelPro, Node.js, &
 ![error worng](https://user-images.githubusercontent.com/33919280/40264870-e40ba18c-5af2-11e8-959f-1cc3ccbe0ca7.png)
 # if you enter quantity that is exceeds the inventory, it gives you this error, and asks you to enter a new amounts or a different item id all together.
 ![notworking](https://user-images.githubusercontent.com/33919280/40264885-1766211a-5af3-11e8-8cf4-e6f20e565e40.png)
+# if you type in any number 0 or less itll say this- I entered -3
+![screen shot 2018-05-18 at 11 39 30 pm](https://user-images.githubusercontent.com/33919280/40264981-c180f4da-5af4-11e8-9d54-1184354d6109.png)
